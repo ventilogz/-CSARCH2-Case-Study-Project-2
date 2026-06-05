@@ -298,6 +298,8 @@ The images below are the layout and tentative design of the group’s interactiv
 
 Layout 1: Milestone without simulative interactive elements. This layout applies to Batch Processing,
 Pointing Devices, and Touch & Mobile Interfaces.
+<img width="1920" height="1080" alt="CMD1" src="https://github.com/user-attachments/assets/f9a8a85a-d48b-44ab-a749-85dc21c63a9a" />
+<img width="1920" height="1080" alt="CMD2" src="https://github.com/user-attachments/assets/56dc27bc-223a-40c4-baae-8f95e789d341" />
 
 
 
@@ -324,6 +326,8 @@ Pointing Devices, and Touch & Mobile Interfaces.
 
 
 Layout 2: Command Line Interface interactive element and featured element layout.
+<img width="1920" height="1080" alt="GUI" src="https://github.com/user-attachments/assets/6844b838-114a-4839-a94c-45ce4707c066" />
+<img width="1920" height="1080" alt="GUI (2)" src="https://github.com/user-attachments/assets/ce3859aa-98ad-4a57-92be-03055dcd34e7" />
 
 
 
@@ -353,6 +357,8 @@ Layout 2: Command Line Interface interactive element and featured element layout
 
 
 Layout 3: Graphical User Interface’s Mini Desktop interactive element and significance to HCI layout.
+<img width="1920" height="1080" alt="Touch and Mobile" src="https://github.com/user-attachments/assets/ae29a607-7a75-4bfd-b2b1-ea9ced3f9db6" />
+<img width="1920" height="1080" alt="10" src="https://github.com/user-attachments/assets/7f71da84-6a5d-453d-9ef6-9cae3384addf" />
 
 
 
