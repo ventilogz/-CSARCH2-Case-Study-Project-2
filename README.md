@@ -235,8 +235,9 @@ i. The vertical timeline shows eras, with the user selecting one.\
 ii. The overview and content details for the selected era are updated in the right
 panel.\
 iii. Users alternate between tabs to explore various aspects of the era.
+
 ### - Simplified Punch Card Simulator 
-A simple punch card simulator that shows how information was stored in early computers with punched cards. A short word or number is entered, and the corresponding holes are shown on a digital punch card, which is a visual representation of early data encoding techniques.\
+***A simple punch card simulator that shows how information was stored in early computers with punched cards. A short word or number is entered, and the corresponding holes are shown on a digital punch card, which is a visual representation of early data encoding techniques.\
 a. Features :\
 i. Short text input — A text field that allows users to type in a word or a number.\
 ii. Digital punch card display — small punch card display grid (10-15 columns) that represents the encoded input.\
@@ -246,7 +247,8 @@ b. User Flow:\
 i. The user types a word or number of a limited size in the entry box.\
 ii. The system transforms input to a simplified punch pattern.\
 iii. The holes are shown on the digital punch card.\
-iv. The user changes the input and sees that the punch pattern changes accordingly based upon the data.
+iv. The user changes the input and sees that the punch pattern changes accordingly based upon the data.***
+
 ### - CLI Terminal Simulator 
 A command-line simulation of an early computing interface that
 allows for user interaction via text rather than graphical commands. The system reacts to preset
@@ -313,7 +315,7 @@ Pointing Devices, and Touch & Mobile Interfaces.
 <img width="1920" height="1080" alt="CSARCH2 - Website Layout(1)" src="https://github.com/user-attachments/assets/195dfbba-2b74-4c62-b367-4045223af6ea" />
 
 
-Layout 2: Batch Processing and Punch Cards’ interactive element.
+***Layout 2: Batch Processing and Punch Cards’ interactive element.***
 <img width="1920" height="1080" alt="CMD1" src="https://github.com/user-attachments/assets/f9a8a85a-d48b-44ab-a749-85dc21c63a9a" />
 <img width="1920" height="1080" alt="CMD2" src="https://github.com/user-attachments/assets/56dc27bc-223a-40c4-baae-8f95e789d341" />
 
