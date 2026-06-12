@@ -235,6 +235,18 @@ i. The vertical timeline shows eras, with the user selecting one.\
 ii. The overview and content details for the selected era are updated in the right
 panel.\
 iii. Users alternate between tabs to explore various aspects of the era.
+### - Simplified Punch Card Simulator 
+A simple punch card simulator that shows how information was stored in early computers with punched cards. A short word or number is entered, and the corresponding holes are shown on a digital punch card, which is a visual representation of early data encoding techniques.\
+a. Features :\
+i. Short text input — A text field that allows users to type in a word or a number.\
+ii. Digital punch card display — small punch card display grid (10-15 columns) that represents the encoded input.\
+iii. Dynamic hole generation — Hole patterns are generated automatically depending on the characters that are entered.\
+iv. Simplified encoding model — Representation of punch card data storage, without being concerned with a historical model.\
+b. User Flow:\
+i. The user types a word or number of a limited size in the entry box.\
+ii. The system transforms input to a simplified punch pattern.\
+iii. The holes are shown on the digital punch card.\
+iv. The user changes the input and sees that the punch pattern changes accordingly based upon the data.
 ### - CLI Terminal Simulator 
 A command-line simulation of an early computing interface that
 allows for user interaction via text rather than graphical commands. The system reacts to preset
@@ -298,6 +310,10 @@ The images below are the layout and tentative design of the group’s interactiv
 
 Layout 1: Milestone without simulative interactive elements. This layout applies to Batch Processing,
 Pointing Devices, and Touch & Mobile Interfaces.
+<img width="1920" height="1080" alt="CSARCH2 - Website Layout(1)" src="https://github.com/user-attachments/assets/195dfbba-2b74-4c62-b367-4045223af6ea" />
+
+
+Layout 2: Batch Processing and Punch Cards’ interactive element.
 <img width="1920" height="1080" alt="CMD1" src="https://github.com/user-attachments/assets/f9a8a85a-d48b-44ab-a749-85dc21c63a9a" />
 <img width="1920" height="1080" alt="CMD2" src="https://github.com/user-attachments/assets/56dc27bc-223a-40c4-baae-8f95e789d341" />
 
@@ -325,7 +341,7 @@ Pointing Devices, and Touch & Mobile Interfaces.
 
 
 
-Layout 2: Command Line Interface interactive element and featured element layout.
+Layout 3: Command Line Interface interactive element and featured element layout.
 <img width="1920" height="1080" alt="GUI" src="https://github.com/user-attachments/assets/6844b838-114a-4839-a94c-45ce4707c066" />
 <img width="1920" height="1080" alt="GUI (2)" src="https://github.com/user-attachments/assets/ce3859aa-98ad-4a57-92be-03055dcd34e7" />
 
@@ -356,7 +372,7 @@ Layout 2: Command Line Interface interactive element and featured element layout
 
 
 
-Layout 3: Graphical User Interface’s Mini Desktop interactive element and significance to HCI layout.
+Layout 4: Graphical User Interface’s Mini Desktop interactive element and significance to HCI layout.
 <img width="1920" height="1080" alt="Touch and Mobile" src="https://github.com/user-attachments/assets/ae29a607-7a75-4bfd-b2b1-ea9ced3f9db6" />
 <img width="1920" height="1080" alt="10" src="https://github.com/user-attachments/assets/7f71da84-6a5d-453d-9ef6-9cae3384addf" />
 
@@ -392,5 +408,5 @@ Layout 3: Graphical User Interface’s Mini Desktop interactive element and sign
 
 
 
-Layout 4: Touch & Mobile Interface’ Voice Command interactive element and key topics layout.
+Layout 5: Touch & Mobile Interface’ Voice Command interactive element and key topics layout.
 
